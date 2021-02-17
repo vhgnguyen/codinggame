@@ -1,5 +1,4 @@
 # codinggame
-solve codinggame problems
 
 Codinggame
 ========
